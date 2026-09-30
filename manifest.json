@@ -1,0 +1,17 @@
+{
+  "name": "FutureIL",
+  "short_name": "FutureIL",
+  "description": "מעקב מכירות ותשלומים אישי",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#0A84FF",
+  "lang": "he",
+  "dir": "rtl",
+  "icons": [
+    { "src": "logo.png", "sizes": "240x240", "type": "image/png", "purpose": "any" },
+    { "src": "logo.png", "sizes": "240x240", "type": "image/png", "purpose": "maskable" }
+  ]
+}
